@@ -19,7 +19,7 @@
 
 <div align="center">
 
-[![Profile Views](https://komarev.com/ghpvc/?username=Syed-Zeerak&label=MATRIX%20ENTRIES&color=brightgreen&style=for-the-badge&abbreviated=true)](https://github.com/SyedZeerak)
+[![Profile Views](https://komarev.com/ghpvc/?username=SyedZeerak&label=MATRIX%20ENTRIES&color=brightgreen&style=for-the-badge&abbreviated=true)](https://github.com/SyedZeerak)
 [![GitHub Followers](https://img.shields.io/github/followers/Syed-Zeerak?label=FOLLOWERS&style=for-the-badge&color=cyan&labelColor=000000)](https://github.com/SyedZeerak)
 [![Years Coding](https://img.shields.io/badge/CODING%20EXPERIENCE-4%2B%20YEARS-brightgreen?style=for-the-badge&labelColor=000000)](https://github.com/SyedZeerak)
 
