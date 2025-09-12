@@ -1,4 +1,4 @@
-# 🚀 **Syed Wajdan Zeerak** | Data Wizard & AI Architect
+# 🚀 **Hi, I'm Syed Wajdan Zeerak**
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=30&duration=3000&pause=1000&color=00FFFF&background=0D1117&center=true&vCenter=true&multiline=true&width=900&height=100&lines=⚡+DATA+SCIENTIST+%7C+AI+ENGINEER+⚡;🔥+TRANSFORMING+BYTES+INTO+INSIGHTS+🔥" />
@@ -19,9 +19,9 @@
 
 <div align="center">
 
-[![Profile Views](https://komarev.com/ghpvc/?username=Syed-Zeerak&label=MATRIX%20ENTRIES&color=brightgreen&style=for-the-badge&abbreviated=true)](https://github.com/Syed-Zeerak)
-[![GitHub Followers](https://img.shields.io/github/followers/Syed-Zeerak?label=FOLLOWERS&style=for-the-badge&color=cyan&labelColor=000000)](https://github.com/Syed-Zeerak)
-[![Years Coding](https://img.shields.io/badge/CODING%20EXPERIENCE-4%2B%20YEARS-brightgreen?style=for-the-badge&labelColor=000000)](https://github.com/Syed-Zeerak)
+[![Profile Views](https://komarev.com/ghpvc/?username=Syed-Zeerak&label=MATRIX%20ENTRIES&color=brightgreen&style=for-the-badge&abbreviated=true)](https://github.com/SyedZeerak)
+[![GitHub Followers](https://img.shields.io/github/followers/Syed-Zeerak?label=FOLLOWERS&style=for-the-badge&color=cyan&labelColor=000000)](https://github.com/SyedZeerak)
+[![Years Coding](https://img.shields.io/badge/CODING%20EXPERIENCE-4%2B%20YEARS-brightgreen?style=for-the-badge&labelColor=000000)](https://github.com/SyedZeerak)
 
 </div>
 
@@ -243,15 +243,15 @@ atlas_metrics = {
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Syed-Zeerak&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=00FFFF&icon_color=00FFFF&text_color=FFFFFF&count_private=true&include_all_commits=true" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Syed-Zeerak&theme=chartreuse-dark&hide_border=true&background=0D1117&stroke=00FFFF&ring=00FFFF&fire=FF6B35&currStreakLabel=00FFFF&sideNums=FFFFFF&currStreakNum=00FFFF&dates=FFFFFF&sideLabels=00FFFF" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=SyedZeerak&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=00FFFF&icon_color=00FFFF&text_color=FFFFFF&count_private=true&include_all_commits=true" />
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=SyedZeerak&theme=chartreuse-dark&hide_border=true&background=0D1117&stroke=00FFFF&ring=00FFFF&fire=FF6B35&currStreakLabel=00FFFF&sideNums=FFFFFF&currStreakNum=00FFFF&dates=FFFFFF&sideLabels=00FFFF" />
 
 </div>
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Syed-Zeerak&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=00FFFF&text_color=FFFFFF&langs_count=10" />
-<img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=Syed-Zeerak&bg_color=0D1117&color=00FFFF&line=00FF00&point=FF6B35&area=true&hide_border=true&custom_title=CONTRIBUTION%20MATRIX" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SyedZeerak&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=00FFFF&text_color=FFFFFF&langs_count=10" />
+<img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=SyedZeerak&bg_color=0D1117&color=00FFFF&line=00FF00&point=FF6B35&area=true&hide_border=true&custom_title=CONTRIBUTION%20MATRIX" />
 
 </div>
 
@@ -336,7 +336,7 @@ mission_2025 = {
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/Syed-Wajdan-Zeerak)
 [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://kaggle.com/Syed-Zeerak)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Syed-Zeerak)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SyedZeerak)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:clashzeerak@gmail.com)
 
 </div>
