@@ -200,7 +200,7 @@ portfolio   : https://syedwajdanzeerak.vercel.app</code></pre>
 <br>
 
 <!-- ======================================================== -->
-<!-- 04 // RECOGNITION -->
+<!-- 04 // RECOGNITION (MINIMAL BADGE GRID) -->
 <!-- ======================================================== -->
 <h3><code>04 // RECOGNITION & AFFILIATIONS</code></h3>
 
@@ -208,44 +208,41 @@ portfolio   : https://syedwajdanzeerak.vercel.app</code></pre>
 <table width="100%">
   <tr>
     <td align="center" width="33.3%">
-      <img src="https://cdn-icons-png.flaticon.com/512/2583/2583319.png" width="40"/><br>
-      <b>🥇 DataFest 2024 Winner</b><br>
-      <sub>National Champion · Pakistan Bureau of Statistics</sub>
+      <img src="https://img.shields.io/badge/WINNER-DataFest_2024-A3E635?style=for-the-badge&logoColor=121418&labelColor=121418" /><br><br>
+      <b>National Champion</b><br>
+      <sub>Pakistan Bureau of Statistics</sub>
     </td>
     <td align="center" width="33.3%">
-      <img src="https://cdn-icons-png.flaticon.com/512/2942/2942076.png" width="40"/><br>
-      <b>🚦 Top 7 GovTech</b><br>
-      <sub>Ignite National Tech Fund · SafeRaah AI</sub>
+      <img src="https://img.shields.io/badge/HONORS-Silver_Medalist-A3E635?style=for-the-badge&logoColor=121418&labelColor=121418" /><br><br>
+      <b>2nd in Cohort (CGPA 3.56)</b><br>
+      <sub>Air University Islamabad</sub>
     </td>
     <td align="center" width="33.3%">
-      <img src="https://cdn-icons-png.flaticon.com/512/3135/3135755.png" width="40"/><br>
-      <b>🌐 MIT Hack-Nation</b><br>
-      <sub>Selected from 5,500+ global applicants</sub>
+      <img src="https://img.shields.io/badge/TOP_7-GovTech_Ignite-A3E635?style=for-the-badge&logoColor=121418&labelColor=121418" /><br><br>
+      <b>SafeRaah AI</b><br>
+      <sub>315+ Competing Teams</sub>
     </td>
   </tr>
   <tr>
     <td align="center" width="33.3%">
-      <img src="https://cdn-icons-png.flaticon.com/512/2583/2583344.png" width="40"/><br>
-      <b>🥈 Silver Medalist</b><br>
-      <sub>Class of 2026 · Air University Islamabad</sub>
+      <img src="https://img.shields.io/badge/AWARD-Best_Project-A3E635?style=for-the-badge&logoColor=121418&labelColor=121418" /><br><br>
+      <b>PepsiNorth 2025</b><br>
+      <sub>Cooler SKU Detection</sub>
     </td>
     <td align="center" width="33.3%">
-      <img src="https://cdn-icons-png.flaticon.com/512/1055/1055666.png" width="40"/><br>
-      <b>🎯 Best Project Award</b><br>
-      <sub>PepsiNorth 2025 · SKU Detection</sub>
+      <img src="https://img.shields.io/badge/SELECTED-MIT_Hack--Nation-A3E635?style=for-the-badge&logoColor=121418&labelColor=121418" /><br><br>
+      <b>Velum Research Suite</b><br>
+      <sub>5,500+ Global Applicants</sub>
     </td>
     <td align="center" width="33.3%">
-      <img src="https://cdn-icons-png.flaticon.com/512/1828/1828884.png" width="40"/><br>
-      <b>👥 Co-Founder AUDAS</b><br>
-      <sub>Air University Data & AI Society</sub>
+      <img src="https://img.shields.io/badge/LEADERSHIP-Co--Founder-A3E635?style=for-the-badge&logoColor=121418&labelColor=121418" /><br><br>
+      <b>AUDAS Society</b><br>
+      <sub>150+ Students Mentored</sub>
     </td>
   </tr>
 </table>
 </div>
 
-<br>
-<hr>
-<br>
 
 <!-- ======================================================== -->
 <!-- 05 // ANALYTICS -->
